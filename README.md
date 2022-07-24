@@ -1,3 +1,3 @@
 # React Shop Portfolio Project
 
-This project was bootstrapped with [Demo] (https://github.com/DmitriSelianov99/react-shop).
+This project was bootstrapped with [Demo] (https://DmitriSelianov99.github.io/react-shop).
